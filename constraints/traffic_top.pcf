@@ -1,0 +1,17 @@
+set_io clk_50m 21
+set_io rst_btn 22
+
+set_io ped_btn_raw 23
+set_io emergency_raw 24
+set_io night_raw 25
+
+set_io NS_G 30
+set_io NS_Y 31
+set_io NS_R 32
+
+set_io EW_G 33
+set_io EW_Y 34
+set_io EW_R 35
+
+set_io PED_WALK 36
+set_io PED_DONT 37
